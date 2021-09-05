@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @andersonwide
-- 👀 I’m interested in code
-- 🌱 I’m currently learning angular and java
-- 💞️ I’m looking to collaborate on ... i don't know '-'
-- 📫 How to reach me ...
+- 👋 Olá, eu me chamo Anderson Michael Magalhães Silva
+- 🌱 Estou apredendo Angular and .Net
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonwide&show_icons=true&theme=dracula) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonwide&show_icons=true&theme=dracula)](https://github.com/andersonwide/github-readme-stats)
+
+
+
+
 
 <!---
 andersonwide/andersonwide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
