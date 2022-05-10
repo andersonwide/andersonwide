@@ -1,8 +1,8 @@
 - 👋 Olá, eu me chamo Anderson Michael Magalhães Silva
-- 🌱 Estou apredendo Angular e .Net
+- 🌱 Estou apredendo JavaScript e .Net
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonwide&show_icons=true&theme=dracula) 
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonwide&show_icons=true&theme=dracula)](https://github.com/andersonwide)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonwide&show_icons=true&theme=dracula)](https://github.com/andersonwide)
 
 
 
